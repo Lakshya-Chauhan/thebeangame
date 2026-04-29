@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Stop-Process -Id 23348 -Force)"
+    ]
+  }
+}
